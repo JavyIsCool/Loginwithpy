@@ -18,7 +18,7 @@ proxies = {
 }
 
 #Direccion url a hacer el login
-url = "http://miurl.com"
+url = "http://miurl.com/login.php?"
 
 #Archivo con los datos a usar para el login
 archivo = open("file1.txt","r") 
